@@ -59,16 +59,8 @@ html, body {
   }
 
 .w-pagination-wrapper {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-flex-wrap: wrap;
-  -ms-flex-wrap: wrap;
   flex-wrap: wrap;
-  -webkit-box-pack: center;
-  -webkit-justify-content: center;
-  -ms-flex-pack: center;
   justify-content: center;
 }
 
@@ -142,9 +134,7 @@ html, body {
   display: -ms-grid;
   display: grid;
   grid-auto-columns: 1fr;
-  -ms-grid-columns: 1fr 1fr;
   grid-template-columns: 1fr 1fr;
-  -ms-grid-rows: auto auto;
   grid-template-rows: auto auto;
   grid-row-gap: 16px;
   grid-column-gap: 16px;
@@ -258,6 +248,11 @@ li {
 img {
   display: inline-block;
   max-width: 100%;
+  transform:translate3d(0, 0, 0) scale3d(0.9500000000000001, 0.9500000000000001, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+  transform:translate3d(0, 0, 0) scale3d(0.9500000000000001, 0.9500000000000001, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+  transform:translate3d(0, 0, 0) scale3d(0.9500000000000001, 0.9500000000000001, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+  transform:translate3d(0, 0, 0) scale3d(0.9500000000000001, 0.9500000000000001, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);
+  opacity:0
 }
 
 label {
@@ -1158,9 +1153,6 @@ figcaption {
 }
 
 .section-padding.home-intro-section.home-slideshow {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   min-height: 600px;
   padding-top: 0px;
@@ -1178,20 +1170,10 @@ figcaption {
 }
 
 .section-padding.gradient-top.section-min-height {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
   min-height: 900px;
 }
 
-.section-padding.gradient-top.section-min-height.home-section-cta-bg {
-  background-image: -webkit-gradient(linear, left top, left bottom, from(#201b1b), color-stop(21%, rgba(29, 19, 19, 0))), url("https://assets.website-files.com/5c1bb997cb1dd637bfe6c899/5cc362db749d9cbded4d215b_waterscape080607_Masthead-26April2019.jpg");
-  background-image: linear-gradient(180deg, #201b1b, rgba(29, 19, 19, 0) 21%), url("https://assets.website-files.com/5c1bb997cb1dd637bfe6c899/5cc362db749d9cbded4d215b_waterscape080607_Masthead-26April2019.jpg");
-  background-position: 0px 0px, 50% 50%;
-  background-size: auto, cover;
-  background-repeat: repeat, no-repeat;
-}
 
 .section-padding.gradient-top.project-content {
   padding-top: 10px;
@@ -2820,7 +2802,6 @@ figcaption {
   height: 100%;
   justify-content: center;
   align-items: center;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -2832,7 +2813,6 @@ figcaption {
   right: 0px;
   bottom: 0px;
   z-index: 10;
-  background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -2841,10 +2821,8 @@ figcaption {
   position: relative;
   z-index: 5;
   display: flex;
-  display: flex;
-  width: 74%;
+  width: 100%;
   margin-left: 80px;
-  justify-content: center;
   justify-content: center;
 }
 
