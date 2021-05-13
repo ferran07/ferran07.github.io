@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="51px" viewBox="0 0 52 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-process-1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Rev-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Concept-1---About-Us-V2-Opt-A" transform="translate(-255.000000, -1723.000000)">
+            <g id="icon-process-1" transform="translate(255.500000, 1722.848681)">
+                <polyline id="Stroke-1" stroke="#FF4242" points="20.5295 5.6331 25.4555 0.7071 30.3825 5.6331"></polyline>
+                <polyline id="Stroke-3" stroke="#FF4242" points="30.382 45.2781 25.456 50.2041 20.529 45.2781"></polyline>
+                <path d="M25.4557,0.7068 L25.4557,50.2048" id="Stroke-5" stroke="#FF4242"></path>
+                <polyline id="Stroke-7" stroke="#FF4242" points="45.2785 20.5296 50.2045 25.4556 45.2785 30.3816"></polyline>
+                <polyline id="Stroke-9" stroke="#FF4242" points="5.633 30.3816 0.707 25.4556 5.633 20.5296"></polyline>
+                <path d="M50.2043,25.4559 L0.7073,25.4559" id="Stroke-11" stroke="#FF4242"></path>
+                <polyline id="Stroke-13" stroke="#616161" points="34.8097 29.1297 34.8097 35.0597 28.8797 35.0597"></polyline>
+                <polyline id="Stroke-15" stroke="#616161" points="28.8796 15.2903 34.8096 15.2903 34.8096 21.2203"></polyline>
+                <polyline id="Stroke-17" stroke="#616161" points="15.2702 29.1297 15.2702 35.0597 21.2002 35.0597"></polyline>
+                <polyline id="Stroke-19" stroke="#616161" points="21.2004 15.2903 15.2704 15.2903 15.2704 21.2203"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

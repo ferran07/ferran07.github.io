@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="35px" viewBox="0 0 20 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-red-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="DEV" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="Concept-1---Home" transform="translate(-429.000000, -3448.000000)" stroke="#FF4242" stroke-width="2">
+            <g id="arrow-red-right" transform="translate(439.000000, 3465.000000) rotate(-270.000000) translate(-439.000000, -3465.000000) translate(423.000000, 3456.000000)">
+                <path d="M0.0685185598,8.62038338 L30.1139966,8.62038338" id="Line-3"></path>
+                <polyline id="Path" transform="translate(23.477938, 9.120383) rotate(-315.000000) translate(-23.477938, -9.120383) " points="17.5476593 3.19010496 29.4082162 3.19010496 29.4082162 15.0506618"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>
